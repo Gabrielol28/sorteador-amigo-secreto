@@ -1,7 +1,7 @@
 <h1 align="center">Sorteador de Amigo Secreto 🎰</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a3dc74c6-61b9-4d2e-9c6b-4e59e2dc6262" alt="amigo-secreto">
+  <img src="./assets/amigo-secreto.png" alt="amigo-secreto">
 </div>
 
 
